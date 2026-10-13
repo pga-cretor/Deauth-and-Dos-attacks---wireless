@@ -14,8 +14,8 @@
 <h1 align="center">WiFi Deauth & DoS Toolkit</h1>
 
 <p align="center">
-  Strumento didattico per lo studio delle vulnerabilità dei <b>management frame IEEE 802.11</b><br>
-  e degli attacchi di <b>Denial of Service</b> su reti wireless.
+  Educational tool for studying vulnerabilities in IEEE 802.11 <b>management frames</b><br>
+  and <b>Denial of Service</b> attacks on wireless networks.
 </p>
 
 <p align="center">

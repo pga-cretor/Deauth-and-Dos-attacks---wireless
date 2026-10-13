@@ -92,37 +92,24 @@ kali@kali~$ sudo mdk4 --fullhelp
 
 ---
 
-## Struttura del Repository
+## Structure of the Repository
 
-| File / Cartella | Descrizione |
+| File / Folder | description|
 |---|---|
-| [`docs/USAGE.md`](docs/USAGE.md) | Guida dettagliata all'utilizzo dello strumento |
-| [`docs/LEGAL.md`](docs/LEGAL.md) | Approfondimento sulle implicazioni legali |
-| [`CONTRIBUTING.md`](CONTRIBUTING.md) | Linee guida per contribuire al progetto |
-| [`CHANGELOG.md`](CHANGELOG.md) | Cronologia delle versioni e modifiche |
-| [`LICENSE`](LICENSE) | Licenza d'uso educativo |
+| [`docs/LEGAL.md`](docs/LEGAL.md) | WI-FI traffic monitoring |
 
 ---
 
-## 🤝 Contribuire
+## contribute
 
-Contributi, segnalazioni di bug e suggerimenti sono benvenuti. Prima di aprire una pull request, consulta [`CONTRIBUTING.md`](CONTRIBUTING.md).
-
----
-
-## 📜 Licenza
-
-Distribuito con licenza **Educational Use Only** — vedi [`LICENSE`](LICENSE) per i dettagli completi.
+Contributions, bug reports, and suggestions are welcome. Before opening a pull request, see ['CONTRIBUTING.md'](CONTRIBUTING.md).
 
 ---
 
 ##  Contatti & Social
 
 <p align="left">
-  <a href="https://github.com/tuo-utente"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://linkedin.com/in/tuo-profilo"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://twitter.com/tuo_handle"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"></a>
-  <a href="https://instagram.com/tuo_handle"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://x.com/TracetheleakS"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"></a>
 </p>
 
 ---
